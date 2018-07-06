@@ -1,0 +1,47 @@
+- name: Tyabbe Geßken
+  id: tyabbe-gessken
+  children:
+    - id: alliet-tyabbens
+      source:
+  history:
+    - notes: Mentioned in 1598 in Kleinsander.
+      source:
+- name: Alliet (Alietz) Tÿabbens
+  id: alliet-tyabbens
+  children:
+    - id: umme-aljets
+      source:
+  history:
+    - notes: |
+        1633-1636 in the village of Kleinsander as owner of a "tube". Had a
+        "warft" (looks to be some sort of settlement on a hill). Impoveshed. Had
+        one child.
+      source:
+- name: Umme Aljets
+  id: umme-aljets
+  children:
+    - id: alljet-ummen
+      source:
+- name: Johann Janßen von Hassel
+  id: johann-janssen
+  children:
+    - id: mehne-janssen
+      source:
+- name: Mehne Janssen
+  id: mehne-janssen
+- name: Heÿe Focken
+  id: heye-focken
+  children:
+    - id: ide-hayen
+      source:
+  marriage:
+    - id: mehne-janssen
+      date: 1679
+      source:
+- name: Ide Haÿen
+  id: ide-hayen
+- name: Alljet Ummen
+  id: alljet-ummen
+  marriage:
+    - id: ide-hayen
+      source:
